@@ -4,11 +4,11 @@ By: Kangie Chan, [Phil Worthington](http://github.com/philworthington), and [Ali
 ## Description
 Application that assists users in sending invoices and making payments quickly and easily utilizing the stripe api.
 
-## Information
+<!-- ## Information
 
 ![Screenshot 1](app/assets/images/)
 
-![Screenshot 2](app/assets/images/)
+![Screenshot 2](app/assets/images/) -->
 
 ## Authors
 * Kangie Chan
